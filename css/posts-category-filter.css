@@ -1,0 +1,64 @@
+/* Post category filter plugin styles */
+
+#category-posts {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+#category-posts h2 {
+	font-size: 2rem;
+}
+
+#category-posts a {
+	color: black;
+}
+.filter-container {
+	background-color: #14377d;
+	padding: 1%;
+	width: 100%;
+}
+
+#category-select {
+	border-radius: 6px;
+	width: 100%;
+	font-size: 1.1rem;
+	padding: 1%;
+}
+
+.filter-container p, .filter-container h3 {
+	color: #fefefe;
+	padding: 0;
+	margin: 0;
+}
+
+.post-info {
+	width: 100%;
+}
+.two-thirds-column {
+	width: 66%;
+	display: flex;
+}
+
+.one-third-column {
+	width: 33%;
+	display: flex;
+}
+
+.one-third-column img {
+	width: 300px;
+	height: 200px;
+}
+
+#category-posts .pagination {
+	display: flex;
+	list-style: none;
+}
+
+#category-posts .pagination li {
+	padding: 10%;
+}
+
+#category-posts .pagination .active {
+	color: darkgray;
+}

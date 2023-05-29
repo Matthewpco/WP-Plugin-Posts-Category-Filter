@@ -2,7 +2,7 @@
 
 <br>
 
-![](https://raw.githubusercontent.com/Matthewpco/WP-Plugin-Include-Extra-Scripts/main/include-extra-scripts-screenshot.png)
+![](https://github.com/Matthewpco/WP-Plugin-Posts-Category-Filter/blob/main/ctegory-shortcode-posts-screenshot.png?raw=true)
 
 <br>
 
